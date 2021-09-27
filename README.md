@@ -1,2 +1,3 @@
 # neogcamp-banana-talk
- Web-app to translate English to Minion language
+
+Fun Web-app to translate English to Minion language
