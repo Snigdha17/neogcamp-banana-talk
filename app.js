@@ -3,7 +3,7 @@ var textOutput = document.querySelector("#text-output");
 
 var serverURL = "https://api.funtranslations.com/translate/minion.json";
 
-alert("Please limit translations to 5 per hour");
+//alert("Please limit translations to 5 per hour");
 
 function constructURL(inputText) {
   return serverURL + "?text=" + inputText;
